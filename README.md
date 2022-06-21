@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vinal Lathiya
-<h4 align="center">A passionate Android Developer from India.</h4></h1>
+<h1 align="center">Hi 👋, I'm Vinal Lathiya</h1>
+<h4 align="center">A passionate Android Developer from India.</h4>
 
 <!-- - 👋 Hi, I’m @LathiyaVinal
 - 👀 I’m interested in ...
