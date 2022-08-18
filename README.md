@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vinal Lathiya</h1>
 <h4 align="center">A passionate Android Developer from India.</h4>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="vinal-lathiya-699498119" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vinal-lathiya-699498119?trk=profile-badge">Vinal Lathiya</a></div>
+              
 <!-- - 👋 Hi, I’m @LathiyaVinal
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
