@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vinal Lathiya</h1>
 <h4 align="center">A passionate Android Developer from India.</h4>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <!-- - 👋 Hi, I’m @LathiyaVinal
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
